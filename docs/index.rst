@@ -5,7 +5,7 @@ Welcome to Read The Docs
 We support Sphinx_ docs written with reStructuredText_ and `CommonMark`_.
 We pull your code from your Subversion_, Bazaar_, Git_, and Mercurial_ repositories.
 Then we build documentation and host it for you.
-Think of it as *Continuous Documentation Marshall*.
+Think of it as *Continuous Documentation*.
 
 The code is open source, and `available on github`_.
 
